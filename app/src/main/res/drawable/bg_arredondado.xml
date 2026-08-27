@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+
+    <!-- Cor de fundo do TextView -->
+    <solid android:color="#E0E0E0" />
+
+    <!-- Raio de arredondamento das bordas -->
+    <corners android:radius="12dp" />
+
+    <!-- Opcional: Adiciona uma linha de borda colorida -->
+    <stroke
+        android:width="2dp"
+        android:color="#F4F2F2" />
+
+    <!-- Opcional: Espaçamento interno (padding) -->
+    <padding
+        android:left="16dp"
+        android:top="8dp"
+        android:right="16dp"
+        android:bottom="8dp" />
+
+</shape>
